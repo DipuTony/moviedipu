@@ -50,10 +50,10 @@ function Home() {
                 {
                     movieData.map((e) => (
                         <div key={e.id}></div>,
-                        <div className='col-span-3 m-2 relative'>
-                        <img src={e.imgUrl} alt={e.movieName} />
-                        <div className='bg-gray-300 absolute bottom-0 w-full p-1'><p className='ml-1'>{e.movieName}</p> <p><AiFillStar className='inline-block mb-1' fill='orange' /><span className='mx-1'>{e.rating}</span></p></div>
-                    </div>
+                        <div className='col-span-12 md:col-span-3 m-2 relative'>
+                            <img className='' src={e.imgUrl} alt={e.movieName} />
+                            <div className='bg-gray-300 absolute bottom-0 w-full p-1'><p className='ml-1'>{e.movieName}</p> <p><AiFillStar className='inline-block mb-1' fill='orange' /><span className='mx-1'>{e.rating}</span></p></div>
+                        </div>
                     ))
                 }
             </div>
