@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.91872b55.css",
-    "main.js": "/static/js/main.399ddd75.js",
-    "index.html": "/index.html",
-    "main.91872b55.css.map": "/static/css/main.91872b55.css.map",
-    "main.399ddd75.js.map": "/static/js/main.399ddd75.js.map"
+    "main.css": "/movieDipu/static/css/main.91872b55.css",
+    "main.js": "/movieDipu/static/js/main.399ddd75.js",
+    "index.html": "/movieDipu/index.html",
+    "main.91872b55.css.map": "/movieDipu/static/css/main.91872b55.css.map",
+    "main.399ddd75.js.map": "/movieDipu/static/js/main.399ddd75.js.map"
   },
   "entrypoints": [
     "static/css/main.91872b55.css",
