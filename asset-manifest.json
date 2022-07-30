@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviedipu/static/css/main.91872b55.css",
+    "main.js": "/moviedipu/static/js/main.399ddd75.js",
+    "index.html": "/moviedipu/index.html",
+    "main.91872b55.css.map": "/moviedipu/static/css/main.91872b55.css.map",
+    "main.399ddd75.js.map": "/moviedipu/static/js/main.399ddd75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91872b55.css",
+    "static/js/main.399ddd75.js"
+  ]
+}
